@@ -135,8 +135,8 @@ ul li a:hover{
     margin: 20px 30px;
     /* border: 1px solid white; */
     box-shadow: 3px 3px 2px rgb(180, 232, 255);
-    width: 32vw;
-    height: 110px;
+    width: 350px;
+    height: 120px;
     transition-property: box-shadow;
     transition: 0.3s ease;
 }
